@@ -1,0 +1,17 @@
+C:\Users\Ali\source\repos\Test\bin\Debug\Test.exe.config
+C:\Users\Ali\source\repos\Test\bin\Debug\Test.exe
+C:\Users\Ali\source\repos\Test\bin\Debug\Test.pdb
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.Form1.resources
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.exe
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.pdb
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.game.resources
+C:\Users\Ali\source\repos\Test\bin\Debug\af\Test.resources.dll
+C:\Users\Ali\source\repos\Test\bin\Debug\yo\Test.resources.dll
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.game.af.resources
+C:\Users\Ali\source\repos\Test\obj\Debug\Test.game.yo.resources
+C:\Users\Ali\source\repos\Test\obj\Debug\af\Test.resources.dll
+C:\Users\Ali\source\repos\Test\obj\Debug\yo\Test.resources.dll
